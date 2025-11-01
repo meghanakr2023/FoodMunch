@@ -1,4 +1,4 @@
-# FoodMunch 🍔
+# FoodMunch 🍟🍕
 
 FoodMunch is a simple responsive website that showcases food items. It is built using **HTML** and **CSS**.
 
